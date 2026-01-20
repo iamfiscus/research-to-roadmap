@@ -1,0 +1,22 @@
+# Generated output directories
+.r2r/
+
+# Local settings (user-specific)
+.claude/*.local.md
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor directories
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Node (if any tooling added later)
+node_modules/
+package-lock.json
+
+# Logs
+*.log

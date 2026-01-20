@@ -1,0 +1,10 @@
+{
+  "name": "research-to-roadmap",
+  "version": "0.2.0",
+  "description": "Transform Software R&D projects, POCs, and ADRs into production-ready roadmaps with prioritized milestones, risk assessment, and clear deliverables. Includes GitHub Next-style graduation criteria and release phases.",
+  "author": {
+    "name": "JD Fiscus"
+  },
+  "license": "MIT",
+  "keywords": ["research", "roadmap", "adr", "r&d", "production", "planning", "labs", "graduation", "release-phases"]
+}
