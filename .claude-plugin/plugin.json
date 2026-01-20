@@ -6,5 +6,6 @@
     "name": "JD Fiscus"
   },
   "license": "MIT",
+  "repository": "https://github.com/iamfiscus/research-to-roadmap",
   "keywords": ["research", "roadmap", "adr", "r&d", "production", "planning", "labs", "graduation", "release-phases"]
 }
