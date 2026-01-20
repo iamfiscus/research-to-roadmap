@@ -1,0 +1,28 @@
+{
+  "name": "r2r-marketplace",
+  "owner": {
+    "name": "JD Fiscus",
+    "email": "jd@fiscus.dev"
+  },
+  "metadata": {
+    "description": "Plugins for transforming research and R&D projects into production-ready roadmaps",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "research-to-roadmap",
+      "source": ".",
+      "description": "Transform Software R&D projects, POCs, ADRs, and lab experiments into production-ready roadmaps with prioritized milestones, risk assessment, and clear deliverables. Includes GitHub Next-style graduation criteria and release phases.",
+      "version": "0.2.0",
+      "author": {
+        "name": "JD Fiscus"
+      },
+      "homepage": "https://github.com/iamfiscus/research-to-roadmap",
+      "repository": "https://github.com/iamfiscus/research-to-roadmap",
+      "license": "MIT",
+      "keywords": ["research", "roadmap", "adr", "r&d", "production", "planning", "labs", "graduation", "release-phases"],
+      "category": "productivity",
+      "tags": ["planning", "project-management", "research", "labs"]
+    }
+  ]
+}
